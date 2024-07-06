@@ -1,0 +1,119 @@
+body{
+  background-color:mistyrose;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#top{
+    width:100%;
+    padding:30px;
+display:flex;
+padding-right: 50px;
+align-items: center;
+gap: 50px;
+text-shadow:5px 5px 10px black;
+
+
+}
+html,body{
+    height:100%;
+    width:100%;
+}
+#logo{
+    margin-right: 450px;
+    word-spacing: 10px;
+    
+  
+}
+#home{
+    margin-right: 50px;
+   
+}
+#client{
+    margin-right: 50px;
+    
+}
+#blogs{
+    margin-right: 50px;
+   
+}
+#parent{
+    display:flex;
+    padding: 20px;
+
+    
+}
+#head{
+    padding:30px 120px 200px 200px;
+    
+}
+img{
+    border-radius: 10%;
+   
+}
+#p1{
+    background-color:wheat;
+    line-height: 1.5;
+    outline-style: double;
+}
+button{
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    font-size: large;
+}
+#tip{
+    width:100%;
+    padding:30px;
+display:flex;
+padding-right: 50px;
+align-items: center;
+gap: 50px;
+text-shadow:5px 5px 10px black;
+
+
+}
+#log{
+    margin-right: 450px;
+    word-spacing: 10px;
+}
+#hom{
+    margin-right: 50px;
+}
+#clin{
+border-radius: 50px;
+}
+#blo{
+border-radius: 50px;
+}
+#body{
+    margin-top: 30px;
+  margin-left: 100px;
+    margin-right: 80px;
+}
+#email{
+ word-spacing: 10px;
+}
+#main{
+    margin-left:100px;
+}
+#parent1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#work{
+    display: flex;
+    width: 80%;
+    
+}
+#name{
+    background-color: wheat;
+    width: 300px;
+    height: 3rem;
+    
+}
+#body{
+    padding-right: 100px;
+}
+#parent3{
+    padding-top: 100px;
+}
+#parent4{
+    margin-left: 1050px;
+}
